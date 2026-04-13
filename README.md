@@ -10,7 +10,7 @@ Executive Overview & Trends
 Product & Channel Performance
 Geographic & Customer Insights
 🚀 Dashboard Features
-🔹 1. Executive Overview & Trends
+//🔹 1. Executive Overview & Trends
 KPI Cards:
 Total Revenue: $1.2B
 Total Profit: $461.8M
